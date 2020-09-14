@@ -1,0 +1,38 @@
+*{
+    display: ruby-text-container;
+  background-color: #3b4e7a;
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+    align-items: center;
+    padding: 5kpx;
+    margin: 2px;
+    
+}
+
+h2{
+background: fixed;
+background:#00ede3;
+border-radius: 20px;
+align-items: center;
+justify-content: center;
+color: black;
+opacity: initial;
+display: flex;
+margin-top: 20px;
+padding: 10px;
+border-radius: 20px;
+}
+
+label{
+font-weight: 700;
+font-size: large;
+}
+
+button {
+    font-size: large;
+    font-weight: 800;
+    border-radius: 20px;
+    color: black;
+}
+
